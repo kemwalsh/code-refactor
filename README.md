@@ -98,7 +98,9 @@ List of Contributors:
 
 ## Contact Info
 
-Kelly Walsh - kellywalsh827@gmail.com [![LinkedIn][linkedin-shield]][linkedin-url-kelly] [![GitHub][github-shield]][github-url-kelly] </br>
+Kelly Walsh - kellywalsh827@gmail.com
+<br>
+[![LinkedIn][linkedin-shield]][linkedin-url-kelly] [![GitHub][github-shield]][github-url-kelly] </br>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
