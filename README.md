@@ -2,7 +2,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-<br>
 [![Stargazers][stars-shield]][stars-url]
 [![GitHub Watchers][github-watchers]][github-watchers-url]
 
@@ -33,7 +32,11 @@
 
 ## Description:
 
-**\***ADD Description**\***
+AS A marketing agency
+<br>
+I WANT a codebase that follows accessibility standards
+<br>
+SO THAT our own site is optimized for search engines
 
 ## User Story
 
@@ -63,10 +66,9 @@ THEN I find a concise, descriptive title
 
 ## Application Features:
 
-- ADD
-- ADD
-- ADD
-- ADD
+- Accessible Alt Attributes
+- Descriptive Title Tag
+- Semantic HTML Elements
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -75,7 +77,11 @@ THEN I find a concise, descriptive title
 Website's Appearance:
 
 <!-- Add link to gif -->
-<!-- ![Appearance](Assets/gif/codeybuddy.gif) -->
+
+<!-- ![Appearance](assets/images/deployedScreenshot.png) -->
+
+<center><img src="assets/images/deployedScreenshot.png" alt="Kitten"
+	title="Horiseon" width="450" height="400"/></center>
 
 ### Built With
 
@@ -84,11 +90,11 @@ Website's Appearance:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Project Link
+## Project Links
 
-[Portfolio Repository](https://github.com/kemwalsh/code-refactor)
+[Repository](https://github.com/kemwalsh/code-refactor)
 
-[Portfolio Live Website](https://kemwalsh.github.io/code-refactor/)
+[Live Website](https://kemwalsh.github.io/code-refactor/)
 
 ## Credits
 
@@ -115,8 +121,8 @@ Kelly Walsh - kellywalsh827@gmail.com
 [stars-url]: https://github.com/kemwalsh/code-refactor/stargazers
 [issues-shield]: https://img.shields.io/github/issues/kemwalsh/code-refactor.svg?style=for-the-badge
 [issues-url]: https://github.com/kemwalsh/code-refactor/issues
-[license-shield]: https://img.shields.io/github/license/kemwalsh/code-refactor.svg?style=for-the-badge
-[license-url]: https://github.com/kemwalsh/code-refactor/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/kemwalsh/code-refactor?style=for-the-badge
+[license-url]: https://github.com/kemwalsh/code-refactor/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url-kelly]: https://www.linkedin.com/in/kellywalsh001/
 [github-shield]: https://img.shields.io/badge/-Github-blueviolet.svg?style=for-the-badge&logo=Github&colorB=555
